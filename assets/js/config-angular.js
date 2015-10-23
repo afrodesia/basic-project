@@ -8,7 +8,7 @@ require.config({
         'angularAMD': 'vendor/angular/angularAMD'
     },
     shim: {
-        'jquery': { exports: '$' }, 
+        'jquery': { 'exports': '$' }, 
         'angularAMD': ['angular'], 
         'angular-route': ['angular'],
         'bootstrap': ['jquery']

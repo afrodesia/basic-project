@@ -5,7 +5,7 @@ require.config({
         'bootstrap': 'vendor/bootstrap/bootstrap.min',
     },
     shim: {
-        'jquery': { exports: '$' }, 
+        'jquery': { 'exports': '$' }, 
         'bootstrap': ['jquery']
     },
     deps: ['app-jquery']
