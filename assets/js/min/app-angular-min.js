@@ -1,0 +1,1 @@
+define(["angularAMD","angular-route","jquery","bootstrap"],function(a){var r=angular.module("App",[])});

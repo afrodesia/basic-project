@@ -1,0 +1,1 @@
+var customer={name:"Ken Torry",speak:function(){return"My name is "+this.name},address:{street:"1518 W. Hollywood",apt:"apt #3",city:"Chicago",state:"IL",zip:"606660"}};document.write(customer+"<br/>");

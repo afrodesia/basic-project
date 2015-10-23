@@ -1,0 +1,1 @@
+define(["jquery","bootstrap"],function(r){var a=angular.module("app",[""]);return r.bootstrap(a)});
