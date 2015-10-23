@@ -13,4 +13,3 @@ plain ole Jquery. It also uses SCSS(Sass) for css complilation.
 * To load Jquery only use : config-jquery
 * To load Angular use : config-angular
 * To load Backbone use : config-backbone
-
