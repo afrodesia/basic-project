@@ -7,7 +7,7 @@ require.config({
         'bootstrap': 'vendor/bootstrap/bootstrap.min',
     },
     shim: {
-        'jquery': { exports: '$' },
+        'jquery': { 'exports': '$' },
         'underscore': {'exports': '_'},    
         'backbone': { 'deps': ['underscore', 'jquery'], 'exports': 'Backbone' },
         'bootstrap': ['jquery']
