@@ -1,1 +1,1 @@
-define(["jquery","underscore","backbone"],function(){});
+define(["jquery","underscore","backbone","bootstrap"],function(){});

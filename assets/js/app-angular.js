@@ -1,4 +1,4 @@
-define(['angularAMD', 'angular-route','jquery','bootstrap'], function (angularAMD) {
+define(['angularAMD', 'angular-route', 'jquery','bootstrap'], function (angularAMD) {
 
 	var App = angular.module('App', []);
     

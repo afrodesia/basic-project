@@ -8,7 +8,7 @@ require.config({
     },
     shim: {
         'jquery': { exports: '$' },
-        "backbone": { "deps": ["underscore", "jquery"], "exports": "Backbone" },
+        'backbone': { 'deps': ['underscore', 'jquery'], 'exports': 'Backbone' },
         'bootstrap': ['jquery']
     },
     deps: ['app-backbone']
